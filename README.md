@@ -1,10 +1,12 @@
+# CI server
+
 The OpenShift `jbossews` cartridge documentation can be found at:
 
 http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
 
 MySQL 5.5 database added.  Please make note of these credentials:
 
-       Root User: adminjhZbJVw
+   Root User: adminjhZbJVw
    Root Password: y-pKXp4uKrTy
    Database Name: inventory
 
