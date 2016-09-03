@@ -1,4 +1,4 @@
-# CI server https://codeship.com/projects/994162c0-544e-0134-507e-4ab5dfe4e53b/status?branch=master
+# CI server [ ![Codeship Status for Garima-Kaila/inventory](https://codeship.com/projects/994162c0-544e-0134-507e-4ab5dfe4e53b/status?branch=master)]
 
 The OpenShift `jbossews` cartridge documentation can be found at:
 

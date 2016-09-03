@@ -1,7 +1,7 @@
 package com.inventory.dto;
 
 /**
- * Created by garima on 03-09-2016.
+ * Created by Garima on 03-09-2016.
  */
 public class TestDto {
     private long id;
