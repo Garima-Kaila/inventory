@@ -1,0 +1,3 @@
+[submodule "src/main/webapp/inventory_frontend"]
+	path = src/main/webapp/inventory_frontend
+	url = https://github.com/Garima-Kaila/inventory_frontend.git
