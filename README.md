@@ -1,5 +1,10 @@
 # CI server [ ![Codeship Status for Garima-Kaila/inventory](https://codeship.com/projects/994162c0-544e-0134-507e-4ab5dfe4e53b/status?branch=master)]
 
+# GIT sub module
+> git pull --recurse-submodules
+> git submodule update --remote --recursive
+
+
 The OpenShift `jbossews` cartridge documentation can be found at:
 
 http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
