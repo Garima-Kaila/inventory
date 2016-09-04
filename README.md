@@ -2,14 +2,16 @@
 
 # GIT sub module
 > git pull --recurse-submodules
+
 > git submodule update --remote --recursive
 
+# Deployed on OpenShift 
 
-The OpenShift `jbossews` cartridge documentation can be found at:
+The OpenShift `jbossews` cartridge with MySQL 5.5 database added.  
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
+URL: https://inventory-flufystudio.rhcloud.com
 
-MySQL 5.5 database added.  Please make note of these credentials:
+Please make note of these credentials:
 <!---
 ...   Root User: adminjhZbJVw
 ...   Root Password: y-pKXp4uKrTy
