@@ -1,6 +1,6 @@
 # Continuous Integration server [![Build Status](https://api.travis-ci.org/Garima-Kaila/inventory.svg?branch=master)](https://travis-ci.org/Garima-Kaila/inventory)
 
-# Continuous Deployment server [ ![Codeship Status for Garima-Kaila/inventory](https://codeship.com/projects/994162c0-544e-0134-507e-4ab5dfe4e53b/status?branch=master)]  
+# Continuous Deployment server [![Codeship Status for Garima-Kaila/inventory](https://codeship.com/projects/994162c0-544e-0134-507e-4ab5dfe4e53b/status?branch=master)]  
 
 # Code Analysis Server [![SonarQube.com Quality Gate status](https://sonarqube.com/api/badges/gate?key=inventory:inventory)](https://sonarqube.com/overview?id=inventory:inventory)
 
