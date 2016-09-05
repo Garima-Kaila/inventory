@@ -36,7 +36,7 @@ public class ConnectionPool {
 
     private ConnectionPool() {
         String openShiftDbUser = System.getenv("OPENSHIFT_MYSQL_DB_USERNAME");
-        if (openShiftDbUser!=null && !openShiftDbUser.equals("")) {
+        if (openShiftDbUser!=null && !"".equals(openShiftDbUser)) {
             DB_USERNAME = openShiftDbUser;
             DB_PASSWORD = System.getenv("OPENSHIFT_MYSQL_DB_PASSWORD");
             DB_HOST = System.getenv("OPENSHIFT_MYSQL_DB_HOST");
