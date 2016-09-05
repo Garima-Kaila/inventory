@@ -34,6 +34,18 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
+		
+		   <sonar.sources>src/main</sonar.sources>
+        <sonar.tests>src/test</sonar.tests>
+
+        <!-- For Java
+        <sonar.junit.reportsPath>reports/java/surefire-reports</sonar.junit.reportsPath>
+        <sonar.jacoco.reportPath>reports/java/jacoco.exec</sonar.jacoco.reportPath>
+		-->
+        <!-- For JavaScript -->
+        <sonar.javascript.lcov.reportPath>reports/js/lcov.dat</sonar.javascript.lcov.reportPath>
+		
+		
     </properties>
     <dependencies>
         <dependency>
