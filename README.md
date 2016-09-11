@@ -63,3 +63,4 @@ https://aroundthecode.org/2016/06/18/travisci-sonarqube-anaysis/
 > mvn clean install sonar:sonar -Dsonar.host.url=https://sonarqube.com -Dsonar.login=e87a4a9074f0dbd0ffc1aeb887f179b6bff0a38f
 
 -->
+
